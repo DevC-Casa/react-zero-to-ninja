@@ -1,1 +1,1 @@
-# react-zero-to-ninja
+# react zero to ninja
